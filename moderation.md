@@ -12,7 +12,7 @@ Signs of an unproductive behavior:
 - comments that suggest a substantial lack of understanding
 - lack of a demonstrable point
 - constant concern trolling
-- persistent attempts to get exposure for another project
+- persistent attempts to get exposure for another project, even disguised as legit criticism
 - word salads
 
 Spam may get removed and trigger a ban without warning.
