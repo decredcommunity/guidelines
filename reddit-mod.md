@@ -1,3 +1,8 @@
+---
+author: bee
+published_utc: 2019-04-18
+---
+
 # Reddit moderator tips
 
 ## Tools
