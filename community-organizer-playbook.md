@@ -63,20 +63,20 @@ The work Community Organizers do is paid for and supported by the Decred stakeho
 
 Example CMS Submission:
 
-Type|Domain|Subdomain|Description|Proposal Token|Labor (hours)
---:|---|---|---|---|--:
-1|Marketing|Community Management|community building in Argentina|c84a766..|11
-1|Marketing|Community Management|weekly podcast for New Zealand|c84a766..|13
-1|Marketing|Community Management|Telegram AR https://t.me/...|c84a766..|4
-1|Marketing|Community Management|Instagram AR https://www.instagram...|c84a766..|4
-1|Marketing|Community Management|Twitter AR https://twitter...|c84a766..|4
-1|Marketing|Community Management|Meetup AR https://www.meetup...|c84a766..|1
-1|Marketing|Community Management|YouTube AR https://www.youtube..|c84a766..|2
-1|Marketing|Community Management|Twitter NZ https://twitter...|c84a766..|4
-1|Marketing|Community Management|Meetup NZ https://www.meetup...|c84a766..|1
-1|Marketing|Community Management|educate on social media|c84a766..|3.8
-1|Marketing|Events|Consensus 2019 (2 days) https://twitter.com/...|d3e7f15..|10
-||||Total||57.8
+Domain|Subdomain|Description|Proposal Token|Labor (hours)
+---|---|---|---|--:
+Marketing|Community Management|community building in Argentina|c84a766..|11
+Marketing|Community Management|weekly podcast for New Zealand|c84a766..|13
+Marketing|Community Management|Telegram AR https://t.me/...|c84a766..|4
+Marketing|Community Management|Instagram AR https://www.instagram...|c84a766..|4
+Marketing|Community Management|Twitter AR https://twitter...|c84a766..|4
+Marketing|Community Management|Meetup AR https://www.meetup...|c84a766..|1
+Marketing|Community Management|YouTube AR https://www.youtube..|c84a766..|2
+Marketing|Community Management|Twitter NZ https://twitter...|c84a766..|4
+Marketing|Community Management|Meetup NZ https://www.meetup...|c84a766..|1
+Marketing|Community Management|educate on social media|c84a766..|3.8
+Marketing|Events|Consensus 2019 (2 days) https://twitter.com/...|d3e7f15..|10
+|||Total||57.8
 
 ### Events
 
