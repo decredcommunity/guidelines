@@ -1,0 +1,32 @@
+- name: No Off-topic
+  applies_to: Posts & Comments
+  reported_as: Stay on topic (no discussions about ICOs etc.)
+  description: r/Decred is a subreddit for discussing Decred cryptocurrency, its technology, economy and features. It's not the place to discuss topics that are unrelated to Decred.
+- name: No Referrals
+  applies_to: Posts & Comments
+  reported_as: No referral linking
+  description: Posting links with referral IDs for the purpose of gaining profit is not allowed.
+- name: No Trolling
+  applies_to: Posts & Comments
+  reported_as: No Trolling - Not Constructive
+  description: Comments with the intent to disrupt or spread FUD (fear, uncertainty, doubt) are not allowed. Constructive criticism, however, is welcome
+- name: No Spam
+  applies_to: Posts & Comments
+  reported_as: No spam is allowed
+  description: No advertising for products or services without prior permission
+- name: Avoid CAPS
+  applies_to: Posts & Comments
+  reported_as: Avoid weird typography or full CAPS
+  description: Avoid posting in full caps or use of weird typography such as flooding repeating characters.
+- name: Avoid duplicates
+  applies_to: Posts & Comments
+  reported_as: Please do not repost links
+  description: Please do not post links that have already been posted.
+- name: One Price Thread at a Time
+  applies_to: Posts & Comments
+  reported_as: Creating a New Price Thread When One is Already Up
+  description: Please check if there's a Price Thread already active on the first page of /r/Decred. If there is, post price talk in that one.
+- name: No Enticing
+  applies_to: Posts & Comments
+  reported_as: Do Not Try to Entice People to Buy or Sell DCR
+  description: "Do not try to appeal to people's emotions to make them buy or sell DCR (or other coins). Examples of forbidden posts: 'Buy DCR, it's going to moon!' or 'it's tanking, sell now!'"
