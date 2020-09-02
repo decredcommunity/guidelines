@@ -1,7 +1,7 @@
 ---
 author: bee
 published_utc: 2019-04-18
-updated_utc: 2020-04-02
+updated_utc: 2020-09-02
 ---
 
 # Reddit moderator tips
@@ -62,6 +62,12 @@ Mod mail, old style.
 https://mod.reddit.com/mail/all
 
 Mod mail, new style.
+
+There are aggregate versions of some of these pages that list data across all subreddits you moderate. To get them replace `r/decred` with `r/mod` in the URL, e.g. https://www.reddit.com/r/mod/about/modqueue/ or https://www.reddit.com/r/mod/about/log/ .
+
+Many of the above listings are available as JSON feeds if you add `.json` at the end of the URL.
+
+Finally, many of the above listings are available via direct private JSON and RSS links that work without cookies or other auth. You can enable them in [preferences](https://www.reddit.com/prefs) and get the links on the [RSS feeds](https://www.reddit.com/prefs/feeds/) tab. Use and share at your own risk.
 
 ## Tips
 
