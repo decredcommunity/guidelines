@@ -27,11 +27,11 @@ https://www.reddit.com/r/decred/about/log/
 
 Log of all mod activity. Only visible to mods. Check it to catch and undo any false positives by the AutoModerator, or simply see what other mods did while you were away.
 
-https://moddit.ffff00.news/r/decred
+Public viewers of mod activity:
 
-Public log of all mod activity.
-
-https://snew.notabug.io/r/decred/about/log/
+- https://moddit.ffff00.news/r/decred
+- https://modlogs.fyi/r/decred
+- https://snew.notabug.io/r/decred/about/log/
 
 Another public log of all mod activity.
 
