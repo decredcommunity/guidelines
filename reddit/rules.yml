@@ -18,10 +18,10 @@
   reported_as: Spam or advertising without prior permission
   description: No advertising for products or services without prior permission.
 
-- name: Avoid CAPS
+- name: No Style Abuse
   applies_to: Posts & Comments
-  reported_as: Weird typography or full CAPS
-  description: Avoid posting in full caps or use of weird typography such as flooding repeating characters.
+  reported_as: Style abuse (CAPS, bold, repetitive characters)
+  description: Do not abuse bold or italic styles. Avoid text in FULL CAPS. Avoid weird typography such as flooding repeating characters.
 
 - name: Avoid Duplicates
   applies_to: Posts & Comments
