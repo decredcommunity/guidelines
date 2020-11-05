@@ -37,3 +37,8 @@
   applies_to: Posts & Comments
   reported_as: Do Not Try to Entice People to Buy or Sell DCR
   description: "Do not try to appeal to people's emotions to make them buy or sell DCR (or other coins). Examples of forbidden posts: 'Buy DCR, it's going to moon!' or 'it's tanking, sell now!'"
+
+- name: No support requests
+  applies_to: Posts & Comments
+  reported_as: Do not post support requests on r/decred
+  description: New posts are broadcast to a number of channels to increase engagement. Support requests often contain entry-level questions and are not fun for the broad audience. Also, most support people and developers reside in chats and are not actively following Reddit. Support chats are available in Telegram, Discord and Matrix and it is the best way to get quick and quality assistance. See r/decred sidebar for links.
