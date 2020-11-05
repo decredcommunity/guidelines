@@ -18,15 +18,15 @@
   reported_as: Spam or advertising unrelated to Decred
   description: Advertising for products or services unrelated to Decred is not allowed. For those that are relevant see Avoid Duplicates rule.
 
-- name: No Style Abuse
-  applies_to: Posts & Comments
-  reported_as: Style abuse (CAPS, bold, repetitive characters)
-  description: Do not abuse bold or italic styles. Avoid text in FULL CAPS. Avoid weird typography such as flooding repeating characters.
-
 - name: Avoid Duplicates
   applies_to: Posts & Comments
   reported_as: Duplicate link, repetitive
   description: Please do not post links that have already been posted. Businesses are welcome to announce their service initially, but after that a notable update is needed to justify a new post. It must be both something new in their business _and_ apply to Decred, i.e. new feature X that cannot be used with Decred is not relevant.
+
+- name: No Style Abuse
+  applies_to: Posts & Comments
+  reported_as: Style abuse (CAPS, bold, repetitive characters)
+  description: Do not abuse bold or italic styles. Avoid text in FULL CAPS. Avoid weird typography such as flooding repeating characters.
 
 - name: One Price Post at a Time
   applies_to: Posts & Comments
