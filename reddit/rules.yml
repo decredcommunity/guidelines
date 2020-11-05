@@ -3,10 +3,10 @@
   reported_as: Off-topic, unrelated to Decred
   description: r/decred is a subreddit for discussing Decred cryptocurrency, its technology, economy and features. It's not the place to discuss topics that are unrelated to Decred.
 
-- name: No Referrals
+- name: No Bad Links
   applies_to: Posts & Comments
-  reported_as: Referral link
-  description: Posting links with referral IDs for the purpose of gaining profit is not allowed.
+  reported_as: Bad link (referral, link shortening service, tracking parts, rehosted/stolen content etc)
+  description: Always post original or "canonical" links. Profit-generating links with referral ID are not allowed. Link shortening services can track users. Tracking parts of the link can also track users (e.g. Medium's ?gi=... at the end). Websites reposting others' content steal traffic (except when the original location is gone).
 
 - name: No Trolling
   applies_to: Posts & Comments
