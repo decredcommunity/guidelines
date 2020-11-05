@@ -15,8 +15,8 @@
 
 - name: No Spam
   applies_to: Posts & Comments
-  reported_as: Spam or advertising without prior permission
-  description: No advertising for products or services without prior permission.
+  reported_as: Spam or advertising unrelated to Decred
+  description: Advertising for products or services unrelated to Decred is not allowed. For those that are relevant see Avoid Duplicates rule.
 
 - name: No Style Abuse
   applies_to: Posts & Comments
