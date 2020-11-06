@@ -69,6 +69,34 @@ Many of the above listings are available as JSON feeds if you add `.json` at the
 
 Finally, many of the above listings are available via direct private JSON and RSS links that work without cookies or other auth. You can enable them in [preferences](https://www.reddit.com/prefs) and get the links on the [RSS feeds](https://www.reddit.com/prefs/feeds/) tab. Use and share at your own risk.
 
+### Short links
+
+Reddit has direct links to posts and comments. Full links can be quite long, but it is possible to shorten them without relying on third party link shortening services (that may track users).
+
+To shorten a link, learn to find post ID and comment ID in the full link. For example consider this direct link to a comment:
+
+    https://www.reddit.com/r/decred/comments/jigugp/how_to_get_on_dcrdex/gad4lce/
+
+here `jigugp` is a post ID and `gad4lce` is a comment ID. Knowing that, post's short link can be made using Reddit's own shortening service `redd.it`:
+
+    https://redd.it/jigugp
+
+or if you don't want to rely on that service:
+
+    https://www.reddit.com/comments/jigugp
+
+It is not possible to create short links to comments with the `redd.it` service, so the only way to shorten a comment link is to extend the previous link with the comment ID:
+
+    https://www.reddit.com/comments/jigugp//gad4lce/
+
+Two slashes (`//`) are necessary to retain link structure expected by Reddit. If that looks weird you can add something in between:
+
+    https://www.reddit.com/comments/jigugp/_/gad4lce/
+
+underscore (`_`) commonly means "this is just a placeholder character required by the syntax but unused otherwise", but anything else can reside between the slashes, like a hidden message:
+
+    https://www.reddit.com/comments/jigugp/thankyou/gad4lce/
+
 ## Tips
 
 Typical mod run:
