@@ -101,8 +101,6 @@ Add important information and avoid common mistakes:
   - not so good example [here](https://proposals.decred.org/proposals/bc20f98), where a $78K item was lacking due decomposition
 - [ ] the proposal must be priced in USD but the payments will be in DCR
   - in rare cases pricing in DCR could have strong benefits (e.g. prize pools), clarify this with Politeia moderators
-- [ ] try to match the start and end of the billable work period to first and last days of calendar months (this may simplify things)
-  - [example](https://proposals.decred.org/proposals/32cba00): "This proposal will run for 6 months between August 1, 2020 and January 31, 2021"
 - [ ] state proposal end condition: when term ends, when money runs out, or other
 - [ ] list all risks that you already know
   - examples [here](https://proposals.decred.org/proposals/0a1ff84) or [here](https://proposals.decred.org/proposals/32cba00)
