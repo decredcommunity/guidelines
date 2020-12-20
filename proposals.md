@@ -1,30 +1,31 @@
 ---
 author: bee
 published_utc: 2020-09-27
-updated_utc: 2020-09-27
+updated_utc: 2020-12-20
 ---
 
 # Proposal Guidelines
 
 This document collects recommendations for making and executing successful proposals in Decred's [Politeia](https://proposals.decred.org/) proposal system based on experience with past proposals.
 
-## Preparation
+## Learn and prepare
 
 - [ ] read [Proposal Guidelines](https://docs.decred.org/governance/politeia/proposal-guidelines/)
 - [ ] study [existing proposals](https://proposals.decred.org/)
   - note which were approved and rejected
   - look at voter turnouts and Yes votes percentages
+  - [this](https://blockcommons.red/publication/politeia-at-2/) research report has useful statistics on which proposals are more likely to pass
 - [ ] field survey
   - ask for general sentiment about your idea in #proposals chat via [Matrix or Discord](https://decred.org/community/) or [on Reddit](https://www.reddit.com/r/decred/)
 - [ ] educate the community
   - a complex or highly specialized proposal that has not been previously voted or discussed by the community will likely cause a lot of questions
-  - unlike a regular company where you can talk to experts in a relevant field, on Politeia people with all kinds of backgrounds are the ones who approve or reject proposals
+  - unlike a regular company where you would talk to a small group of appointed experts in a relevant field and the management, on Politeia people of all kinds of backgrounds are the decision makers, i.e. the ones who approve or reject proposals
   - it is possible that many voters will not be familiar with the domain of your proposal
   - consider starting with an educational campaign
-  - one idea is to host a Q&A session similar to Reddit AMA ("ask me anything")
+  - one option is to host a Q&A session similar to Reddit AMA ("ask me anything")
 - [ ] plan your finances
-  - payments are made in DCR at an average DCR/USD rate of the month when the work was performed
-  - since DCR is volatile and invoices are paid on 2-4th week of the next month, in the most extreme cases this has resulted in up to +/- 50% difference between billed and received USD equivalents
+  - payments are made **in DCR** at an average DCR/USD rate of the month when the work was performed
+  - since DCR is volatile and invoices are paid on 2-4th week of the next month, in most extreme cases this has resulted in up to +/- 50% difference between billed and received USD equivalents
   - read [this](https://docs.decred.org/contributing/contributor-compensation/) for more details
 
 ### Red flags
@@ -47,7 +48,7 @@ Write proposal draft in the Markdown format:
 
 - [ ] post it as [gist](https://gist.github.com/) (simplest)
   - [gist help](https://help.github.com/en/articles/about-gists)
-- [ ] alternatively, host it in the [proposals](https://github.com/decredcommunity/proposals/pulls) repository
+- [ ] alternatively, you can host it in the [proposals](https://github.com/decredcommunity/proposals/pulls) repository
   - compared to gists, this adds multi-user review and editing and makes the draft discoverable
 - [ ] write a clean Markdown document
   - nice formatting minimizes distractions
@@ -56,15 +57,15 @@ Write proposal draft in the Markdown format:
 
 Add important information and avoid common mistakes:
 
-- [ ] get an actionable plan
+- [ ] develop an actionable plan
   - Politeia is not for voting on mere _ideas_
 - [ ] build a team
   - "I have a proposal but no time, someone else will need to do the work" will likely not work
   - negotiate with each person who will execute the proposal
   - if your proposal is approved, it does not automatically force all mentioned people to do what the proposal says
-  - one mistake to avoid is to _assume_ that person X will do task Y, only discover that it didn't happen when it's too late
+  - avoid the mistake of _assuming_ that person X will do task Y, only discover that it didn't happen when it's too late
   - obtain the commitment to deliver from each person you list in the proposal
-  - ideally, each would comment in the proposal to express their commitment
+  - ideally, each member would come to comment in the proposal to express their commitment
 - [ ] plan for coordination overhead
   - whether you're going to bill for it or not, include the time/effort for communication/coordination/management/reporting in your estimates
   - esp. if >1 people are executing your proposal
@@ -79,17 +80,18 @@ Add important information and avoid common mistakes:
 - [ ] state how assets produced by the proposal will be "transferred" to Decred's ownership
   - where will they be uploaded and who will maintain them after the proposal is finished?
 - [ ] the proposal must be priced in USD but the payments will be in DCR
-  - in rare cases pricing in DCR could be strong benefit (e.g. prize pools), clarify this with Politeia moderators
-- [ ] matching the start and end of the billing period to first and last days of calendar months may simplify things
+  - in rare cases pricing in DCR could have strong benefits (e.g. prize pools), clarify this with Politeia moderators
+- [ ] try to match the start and end of the billable work period to first and last days of calendar months (this may simplify things)
   - [example](https://proposals.decred.org/proposals/32cba00): "This proposal will run for 6 months between August 1, 2020 and January 31, 2021"
 - [ ] state proposal end condition: when term ends, when money runs out, or other
 - [ ] list all risks that you already know
   - examples [here](https://proposals.decred.org/proposals/0a1ff84) or [here](https://proposals.decred.org/proposals/32cba00)
 - [ ] for RFPs (Request for Proposals), include a deadline for submissions and any rules they must adhere to
 - [ ] include any other important info
-  - who you are and links to verify your background, milestones, reporting commitment, etc
-  - any useful info generated during draft discussion outside Politeia
-  - remember: your proposal is kind of a _contract_ with Decred stakeholders
+  - who you are and links to verify your background
+  - milestones, reporting schedule, etc
+  - any useful info generated and clarified during draft discussion outside Politeia
+  - remember: your proposal is kind of a _contract_ with Decred stakeholders. Having a clear contract to reference will help to resolve any possible disputes around deliverables or billing.
 
 Share and iterate the draft:
 
@@ -100,12 +102,12 @@ Share and iterate the draft:
 ## Publish, promote, engage, update
 
 - [ ] prefer public places
-  - avoid hard-lobbying your proposal in private. Private chats and small groups are ok for collaboration/iteration "churn", but promoting the proposal "behind the scenes" will leave a bad taste. In contrast, facing any criticism in public will boost your credibility.
+  - avoid hard-lobbying your proposal in private. Private chats and small groups are ok for collaboration/iteration "churn", but promoting the proposal "behind the scenes" will leave a bad taste and people will likely learn about it. In contrast, facing and addressing any criticism in public will boost your credibility.
 - [ ] submit the proposal to Politeia
   - download the so-called Proposal Bundle that contains a cryptographic proof of submission
   - it may take up to a few days for the proposal to get verified and published
   - if it doesn't show up, ask in #proposals chat
-  - if attempts to contact admins fail and you suspect unfair censorship, follow the [docs](https://docs.decred.org/governance/politeia/politeia-censorship/) and use the bundle to prove the submission
+  - if attempts to contact admins fail and you suspect unfair censorship, follow the [docs](https://docs.decred.org/governance/politeia/politeia-censorship/) and use Proposal Bundle to prove the submission
 - [ ] promote pre-vote
   - submit proposal link to [r/decred](https://www.reddit.com/r/decred/)
   - post in #proposals room if it wasn't already posted by Politeia moderators
@@ -120,13 +122,13 @@ Share and iterate the draft:
   - make sure you don't miss email notifications from Politeia
 - [ ] update the proposal
   - as you discover common questions or points of confusion, edit the proposal to address them
-  - imagine that most voters will only read the final revision before casting a vote, and that they will _not_ read the comments. They take time to read and are not shown in Decrediton (the main GUI wallet).
+  - imagine that most voters will only read the final revision before casting a vote, and that they will _not_ read the comments. Comments take time to read and are not shown in Decrediton (the main GUI wallet).
   - again, treat the proposal document as a _contract_ with Decred DAO
 - [ ] summarize significant changes in the proposal itself
   - there is a feature to view text diff between proposal revisions, but not everyone knows how to use it
   - when the changes are big or there are many of them, it takes time to read the diffs
-  - noting major changes at the end of the proposal makes them visible and saves time for the stakeholders, whose time and attention is a valuable resource
-  - those interested in detailed changes can still read the diffs
+  - noting major changes at the end of the proposal makes them visible and saves time for the stakeholders, whose time and attention is a scarce resource
+  - those interested in detailed changes can always check the diffs
   - see examples [here](https://proposals.decred.org/proposals/063e382) and [here](https://proposals.decred.org/proposals/32cba00)
 - [ ] give it some time for discussion
   - I recommend [2 weeks](https://github.com/decredcommunity/issues/issues/117) to let everyone digest the proposal and post feedback
@@ -154,7 +156,7 @@ Share and iterate the draft:
 - [ ] talk to people and try to understand why it failed
 - [ ] look at vote counts
   - if it's like 95% No then the idea is really bad and needs to be reconsidered or abandoned
-  - but if it's like 40% Yes it's actually a good result that means thousands of tickets (worth millions of USD) supported the idea and it could pass after adjustment, at another time, or if the conditions change
+  - but if it's like 40% Yes it's actually a good result that means thousands of tickets (worth millions of USD) supported the idea and it could pass after adjustment, at another time, or under different circumstances
 - [ ] consider adjusting the proposal and trying again
 
 ## If the vote passed
@@ -162,7 +164,7 @@ Share and iterate the draft:
 - [ ] tweet about the success and next steps
 - [ ] survey people who voted No
   - if approval was lower than ~70% Yes, it means that thousands of tickets (worth millions of USD) voted against your proposal
-  - consider surveying the remaining ~30% what they think
+  - survey what the remaining ~30% think
   - a good example [here](https://www.reddit.com/r/decred/comments/gzw6hl/what_are_the_thoughts_of_the_394/)
 - [ ] convince people who voted No
   - do your best to take the No voters into account (unless it goes against the majority of Yes voters, obviously) and demonstrate good work to win more support for your future projects
@@ -173,27 +175,29 @@ Share and iterate the draft:
   - figure out the contents and schedule of reports, discuss this with your proposal team
   - post progress updates periodically, e.g. once a month
   - long tedious reports are often not necessary, but a few words every couple weeks is so much better than silence
-  - good examples are Ditto's [biweekly](https://github.com/decredcommunity/proposals/tree/master/pr-ditto/updates) updates, Monde PR's monthly updates posted in chats and Decred Journal, or Latam team's [monthly](https://github.com/decredcommunity/proposals/tree/master/proposals/3c02b67/updates) updates
-  - I recommend submitting updates to the [proposals](https://github.com/decredcommunity/proposals) repository to collect them in one place
+  - good examples are Ditto's [biweekly](https://github.com/decredcommunity/proposals/tree/master/pr-ditto/updates) updates, Monde PR's monthly updates posted in chats and Decred Journal, or Spanish team's [monthly](https://github.com/decredcommunity/proposals/tree/master/proposals/3c02b67/updates) reports
+  - I recommend submitting reports to the [proposals](https://github.com/decredcommunity/proposals) repository to collect them in one place
 - [ ] learn how payouts work
   - submit monthly invoices before ~10th for work performed in previous month
+  - ensure that your proposal team members submit in time, too
+  - if you submit too late you may miss the pay day and will have to wait till next month
 - [ ] do not disappear
-  - this may fuel all kinds of speculation, negatively affect your reputation and damage support of your future proposals
+  - if you just go silent, this may fuel all kinds of speculation, negatively affect your reputation and damage support of your future proposals
   - if unforeseen events happen and you're suddenly short on time, try to at least "show up" once in a while
   - find people you trust and delegate/transfer your duties, including oversight and funding decisions
   - stay in touch with people who depend on you
-  - post short status updates and projections in public places
+  - post short status updates in public places
   - bad news is better than no news, i.e. even "I'm ok but unable to deliver for at least 4 months" is infinitely better than everybody guessing what to expect
   - set up notifications for important keywords
 - [ ] plan the next proposal
   - if you plan to "renew your contract" and continue working via another proposal, plan it in advance to avoid interruption of funding for your work
-  - submit next proposal in advance so that the discussion and voting will finish by the start of the next billing period
-  - for example, if your 6-month proposal bills Jan 1 - Jul 31, then start writing the draft around Jul 1 and submit before Jul 7 so that 2-week discussion and 1-week voting will fit
+  - submit next proposal in advance so that the discussion and voting will finish by the start of the next billing work period
+  - for example, if your 6-month proposal bills for work between Jan 1 - Jul 31, and you want the next one to start Aug 1, then start drafting around Jul 1 and submit before Jul 7 so that 2-week discussion and 1-week voting will fit
 
 ## Miscellaneous
 
 - Some proposal authors refer to themselves as "author" or by name in the proposal. I think using "I" is more direct and feels better.
-- Unlike Reddit, in Politeia your comments are not automatically upvoted by you. This leads to a slight skew of comment score in favor of those who upvote their comments. With a bit of extra clicks you can avoid this tiny disadvantage. Support [this](https://github.com/decred/politeiagui/issues/845) issue if you want to see it fixed.
+- Unlike Reddit, on Politeia your comments are not automatically upvoted by you. This leads to a slight skew of comment score in favor of those who upvote their comments. With a bit of extra clicks you can avoid this tiny disadvantage. Support [this](https://github.com/decred/politeiagui/issues/845) issue if you want to see it fixed.
 
 ## Further reading
 
@@ -203,4 +207,4 @@ Share and iterate the draft:
 
 ## About
 
-This document evolved from a 2019 [comment](https://github.com/decred/dcrdocs/issues/848#issuecomment-471795670) when discussing [Proposal Guidelines](https://docs.decred.org/governance/politeia/proposal-guidelines/) page of the main documentation website. When the list got bigger I moved it to a separate document in my personal [notes](https://github.com/xaur/notes) repo. Over the year it has grown to a point where it can help more people and I moved it to [decredcommunity/guidelines](https://github.com/decredcommunity/guidelines) repo.
+This document evolved from a 2019 [comment](https://github.com/decred/dcrdocs/issues/848#issuecomment-471795670) when discussing [Proposal Guidelines](https://docs.decred.org/governance/politeia/proposal-guidelines/) page of the main documentation website. When the list got bigger I moved it to a separate document in my personal [notes](https://github.com/xaur/notes) repo. Over the year it has grown to a point where it can help more people and I moved it to this [decredcommunity/guidelines](https://github.com/decredcommunity/guidelines) repo.
