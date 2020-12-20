@@ -74,11 +74,17 @@ Add important information and avoid common mistakes:
 - [ ] include a continuity plan
   - have a "Plan B" to avoid situations like [this](https://proposals.decred.org/proposals/c830ea5/comments/56) or [this](https://proposals.decred.org/proposals/063e382), when proposal owners stopped delivering without proper continuity arrangements
   - see [this](https://proposals.decred.org/proposals/2170df6) or [this](https://proposals.decred.org/proposals/32cba00) example
+- [ ] pick a clear proposal title
+  - summarize the proposal in one succinct line
+  - avoid hypey, vague or alarming titles
+  - as a bad example, title "A practical marketing opportunity - Massively boost the use case for DCR" [here](https://proposals.decred.org/proposals/2dcbc3e) was criticized for being manipulative and not saying anything about about the proposal
 - [ ] address non-expert audience
   - people of all kinds of backgrounds will read your proposal, including those unfamiliar with your field, and those not fluent in English
   - a good way to help more people understand your proposal is to address general and expert audiences in separate sections, as shown by [this](https://proposals.decred.org/proposals/0a1ff84) proposal
 - [ ] state how assets produced by the proposal will be "transferred" to Decred's ownership
   - where will they be uploaded and who will maintain them after the proposal is finished?
+- [ ] restrictions on deliverables
+  - specify any license or other restrictions on deliverables
 - [ ] the proposal must be priced in USD but the payments will be in DCR
   - in rare cases pricing in DCR could have strong benefits (e.g. prize pools), clarify this with Politeia moderators
 - [ ] try to match the start and end of the billable work period to first and last days of calendar months (this may simplify things)
