@@ -85,6 +85,20 @@ Add important information and avoid common mistakes:
   - where will they be uploaded and who will maintain them after the proposal is finished?
 - [ ] restrictions on deliverables
   - specify any license or other restrictions on deliverables
+- [ ] plan the budget
+  - the main figure stakeholders will care about is the total USD spend limit, make sure this number is clearly visible
+  - for convenience it helps to also present monthly USD spend limit
+  - if expected (average) and maximum monthly/total spend may vary significantly, add both numbers as done [here](https://proposals.decred.org/proposals/32cba00)
+  - a common practice is when "any unspent funds will remain in the Treasury", state this if it fits your proposal
+  - you may include estimates of labor hours and hourly rates that produced the total USD budget. Some proposals show this to be more transparent and provide an extra sanity check, while some omit hours to not go into too much detail and/or protect individual contractor's privacy. In general this is not required and it is more practical to think and communicate the proposal in terms of USD, and mention hours only for context and sanity checks (e.g. to let people ask questions like "why do you need 100 hours to update this page?"). What matters in the end is the work delivered and funds spent.
+  - account for any raise you plan to award your team throughout the duration
+  - include a bit of extra funds for unforeseen expenses
+- [ ] break down where the money goes
+  - any non-trivial amount of money needs a breakdown of how it will be allocated
+  - good itemization boosts confidence, allows to discuss and adjust the plan
+  - see good examples [here](https://proposals.decred.org/proposals/c830ea5), [here](https://proposals.decred.org/proposals/1dc1571) or [here](https://proposals.decred.org/proposals/350f64b)
+  - big chunks of funds without a breakdown will raise questions
+  - not so good example [here](https://proposals.decred.org/proposals/bc20f98), where a $78K item was lacking due decomposition
 - [ ] the proposal must be priced in USD but the payments will be in DCR
   - in rare cases pricing in DCR could have strong benefits (e.g. prize pools), clarify this with Politeia moderators
 - [ ] try to match the start and end of the billable work period to first and last days of calendar months (this may simplify things)
