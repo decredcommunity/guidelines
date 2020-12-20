@@ -66,11 +66,6 @@ Add important information and avoid common mistakes:
   - avoid the mistake of _assuming_ that person X will do task Y, only discover that it didn't happen when it's too late
   - obtain the commitment to deliver from each person you list in the proposal
   - ideally, each member would come to comment in the proposal to express their commitment
-- [ ] plan for coordination overhead
-  - whether you're going to bill for it or not, include the time/effort for communication/coordination/management/reporting in your estimates
-  - esp. if >1 people are executing your proposal
-  - as a proposal owner, you will likely spend quite some time writing up the proposal, answering questions, and coordinating other people. If you wish to be compensated for this work, include it in the budget and mention it in the proposal.
-  - as a real life example, it took me more than 10 hours to prepare the [moderation](https://proposals.decred.org/proposals/32cba00) proposal and reply to comments
 - [ ] include a continuity plan
   - have a "Plan B" to avoid situations like [this](https://proposals.decred.org/proposals/c830ea5/comments/56) or [this](https://proposals.decred.org/proposals/063e382), when proposal owners stopped delivering without proper continuity arrangements
   - see [this](https://proposals.decred.org/proposals/2170df6) or [this](https://proposals.decred.org/proposals/32cba00) example
@@ -99,6 +94,11 @@ Add important information and avoid common mistakes:
   - see good examples [here](https://proposals.decred.org/proposals/c830ea5), [here](https://proposals.decred.org/proposals/1dc1571) or [here](https://proposals.decred.org/proposals/350f64b)
   - big chunks of funds without a breakdown will raise questions
   - not so good example [here](https://proposals.decred.org/proposals/bc20f98), where a $78K item was lacking due decomposition
+- [ ] plan for coordination overhead
+  - whether you're going to bill for it or not, include the time/effort for communication/coordination/management/reporting in your estimates
+  - esp. if >1 people are executing your proposal
+  - as a proposal owner, you will likely spend quite some time writing up the proposal, answering questions, and coordinating other people. If you wish to be compensated for this work, include it in the budget and mention it in the proposal.
+  - as a real life example, it took me more than 10 hours to prepare the [moderation](https://proposals.decred.org/proposals/32cba00) proposal and reply to comments
 - [ ] the proposal must be priced in USD but the payments will be in DCR
   - in rare cases pricing in DCR could have strong benefits (e.g. prize pools), clarify this with Politeia moderators
 - [ ] state proposal end condition: when term ends, when money runs out, or other
