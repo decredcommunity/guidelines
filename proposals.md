@@ -1,7 +1,7 @@
 ---
 author: bee
 published_utc: 2020-09-27
-updated_utc: 2020-12-20
+updated_utc: 2020-12-21
 ---
 
 # Proposal Guidelines
@@ -84,6 +84,7 @@ Add important information and avoid common mistakes:
   - the main figure stakeholders will care about is the total USD spend limit, make sure this number is clearly visible
   - for convenience it helps to also present monthly USD spend limit
   - if expected (average) and maximum monthly/total spend may vary significantly, add both numbers as done [here](https://proposals.decred.org/proposals/32cba00)
+  - talk to each member, get their monthly USD estimates (expected and maximum)
   - a common practice is when "any unspent funds will remain in the Treasury", state this if it fits your proposal
   - you may include estimates of labor hours and hourly rates that produced the total USD budget. Some proposals show this to be more transparent and provide an extra sanity check, while some omit hours to not go into too much detail and/or protect individual contractor's privacy. In general this is not required and it is more practical to think and communicate the proposal in terms of USD, and mention hours only for context and sanity checks (e.g. to let people ask questions like "why do you need 100 hours to update this page?"). What matters in the end is the work delivered and funds spent.
   - account for any raise you plan to award your team throughout the duration
@@ -101,6 +102,10 @@ Add important information and avoid common mistakes:
   - as a real life example, it took me more than 10 hours to prepare the [moderation](https://proposals.decred.org/proposals/32cba00) proposal and reply to comments
 - [ ] the proposal must be priced in USD but the payments will be in DCR
   - in rare cases pricing in DCR could have strong benefits (e.g. prize pools), clarify this with Politeia moderators
+- [ ] state an explicit start and end date of the billable work
+  - e.g. "work will be performed for 6 months between August 1, 2020 and January 31, 2021"
+  - even if start date is in the past, for [example](https://proposals.decred.org/proposals/c093b8a) "the proposal also covers the work performed in September and October 2020"
+  - some proposals do not state this explicitly and it becomes hard to tell for when they are allowed to bill
 - [ ] state proposal end condition: when term ends, when money runs out, or other
 - [ ] list all risks that you already know
   - examples [here](https://proposals.decred.org/proposals/0a1ff84) or [here](https://proposals.decred.org/proposals/32cba00)
@@ -199,6 +204,7 @@ Share and iterate the draft:
   - submit monthly invoices before ~10th for work performed in previous month
   - ensure that your proposal team members submit in time, too
   - if you submit too late you may miss the pay day and will have to wait till next month
+  - learn how CMS and invoices work, don't hesitate to ask
 - [ ] do not disappear
   - if you just go silent, this may fuel all kinds of speculation, negatively affect your reputation and damage support of your future proposals
   - if unforeseen events happen and you're suddenly short on time, try to at least "show up" once in a while
