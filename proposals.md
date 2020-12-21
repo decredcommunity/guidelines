@@ -1,7 +1,7 @@
 ---
 author: bee
 published_utc: 2020-09-27
-updated_utc: 2020-12-20
+updated_utc: 2020-12-21
 ---
 
 # Proposal Guidelines
@@ -55,6 +55,10 @@ Write proposal draft in the Markdown format:
   - bookmark this excellent Markdown [cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
   - check for typos with a spell checker
 
+Contentious ideas (you may want to avoid):
+
+- schemes where Treasury receives part of the profits have been [discussed](https://github.com/decredcommunity/issues/issues/61) many times and the community in general is very cautious about it
+
 Add important information and avoid common mistakes:
 
 - [ ] develop an actionable plan
@@ -66,23 +70,50 @@ Add important information and avoid common mistakes:
   - avoid the mistake of _assuming_ that person X will do task Y, only discover that it didn't happen when it's too late
   - obtain the commitment to deliver from each person you list in the proposal
   - ideally, each member would come to comment in the proposal to express their commitment
-- [ ] plan for coordination overhead
-  - whether you're going to bill for it or not, include the time/effort for communication/coordination/management/reporting in your estimates
-  - esp. if >1 people are executing your proposal
-  - as a proposal owner, you will likely spend quite some time writing up the proposal, answering questions, and coordinating other people. If you wish to be compensated for this work, include it in the budget and mention it in the proposal.
-  - as a real life example, it took me more than 10 hours to prepare the [moderation](https://proposals.decred.org/proposals/32cba00) proposal and reply to comments
 - [ ] include a continuity plan
   - have a "Plan B" to avoid situations like [this](https://proposals.decred.org/proposals/c830ea5/comments/56) or [this](https://proposals.decred.org/proposals/063e382), when proposal owners stopped delivering without proper continuity arrangements
   - see [this](https://proposals.decred.org/proposals/2170df6) or [this](https://proposals.decred.org/proposals/32cba00) example
+- [ ] pick a clear proposal title
+  - summarize the proposal in one succinct line
+  - avoid hypey, vague or alarming titles
+  - as a bad example, title "A practical marketing opportunity - Massively boost the use case for DCR" [here](https://proposals.decred.org/proposals/2dcbc3e) was criticized for being manipulative and not saying anything about about the proposal
 - [ ] address non-expert audience
   - people of all kinds of backgrounds will read your proposal, including those unfamiliar with your field, and those not fluent in English
   - a good way to help more people understand your proposal is to address general and expert audiences in separate sections, as shown by [this](https://proposals.decred.org/proposals/0a1ff84) proposal
+- [ ] avoid overlaps with active proposals
+  - try to avoid having your proposal overlapping with existing active proposals by doing/funding same things
+  - if that happens, clarify how the overlap is resolved (does your proposal "take over" execution and/or funding of certain items?)
+  - we had a case when _three_ proposals included the same thing and it was very confusing
 - [ ] state how assets produced by the proposal will be "transferred" to Decred's ownership
   - where will they be uploaded and who will maintain them after the proposal is finished?
+- [ ] restrictions on deliverables
+  - specify any license or other restrictions on deliverables
+- [ ] plan the budget
+  - the main figure stakeholders care about is the _total USD_ spend limit, make sure this number is clearly visible
+  - it is convenient when _monthly USD_ spend limit is also presented
+  - if expected (average) and maximum total (and monthly) spend may vary significantly, add both numbers as done [here](https://proposals.decred.org/proposals/32cba00)
+  - talk to each member, get their monthly USD estimates (expected and maximum)
+  - a common practice is when "any unspent funds will remain in the Treasury", state this if it fits your proposal
+  - you may include estimates of labor hours and hourly rates that produced the total USD budget. Some proposals show this to be more transparent and provide an extra sanity check, while some omit hours to not go into too much detail and/or protect individual contractor's privacy. In general this is not required and it is more practical to think and communicate the proposal in terms of USD, and mention hours only for context and sanity checks (e.g. to let people ask questions like "why do you need 100 hours to update this page?"). What matters in the end is the work delivered and funds spent.
+  - account for any raise you plan to award your team throughout the duration
+  - include a bit of extra funds for possible expansion and unforeseen expenses
+- [ ] break down where the money goes
+  - any non-trivial amount of money needs a breakdown of how it will be allocated
+  - good itemization boosts confidence, allows to discuss and adjust the plan
+  - see good examples [here](https://proposals.decred.org/proposals/c830ea5), [here](https://proposals.decred.org/proposals/1dc1571) or [here](https://proposals.decred.org/proposals/350f64b)
+  - big chunks of funds without a breakdown will raise questions
+  - not so good example [here](https://proposals.decred.org/proposals/bc20f98), where a $78K item was lacking due decomposition
+- [ ] plan for coordination overhead
+  - you will likely spend quite a few hours writing up the proposal, answering questions, and coordinating other people. If you wish to be compensated for this work, include it in the budget and mention it in the proposal.
+  - as a real life example, it took me more than 10 hours to prepare the [moderation](https://proposals.decred.org/proposals/32cba00) proposal and reply to comments
+  - then if it is approved, as an owner you will likely spend time/efforts on communication/coordination/management/oversight/reporting. Take this into account in your estimates regardless of whether you're going to bill for it or not.
+  - esp. if >1 people are executing your proposal
 - [ ] the proposal must be priced in USD but the payments will be in DCR
   - in rare cases pricing in DCR could have strong benefits (e.g. prize pools), clarify this with Politeia moderators
-- [ ] try to match the start and end of the billable work period to first and last days of calendar months (this may simplify things)
-  - [example](https://proposals.decred.org/proposals/32cba00): "This proposal will run for 6 months between August 1, 2020 and January 31, 2021"
+- [ ] state an explicit start and end date of the billable work period
+  - e.g. "work will be performed for 6 months between August 1, 2020 and January 31, 2021"
+  - even if start date is in the past, for [example](https://proposals.decred.org/proposals/c093b8a) "the proposal also covers the work performed in September and October 2020"
+  - some proposals do not state this explicitly and it is hard to tell for when they are allowed to bill
 - [ ] state proposal end condition: when term ends, when money runs out, or other
 - [ ] list all risks that you already know
   - examples [here](https://proposals.decred.org/proposals/0a1ff84) or [here](https://proposals.decred.org/proposals/32cba00)
@@ -120,6 +151,7 @@ Share and iterate the draft:
 - [ ] actively engage with commenters
   - answer questions and clarify misunderstandings
   - make sure you don't miss email notifications from Politeia
+  - remember that commenters may not be the same people who will vote. People who are extremely vocal about supporting or attacking you in comments may not make any difference in the vote outcome (or not vote at all!), so don't get too hyped or too upset about comments. Voting is the only way to know what _stakeholders_ think.
 - [ ] update the proposal
   - as you discover common questions or points of confusion, edit the proposal to address them
   - imagine that most voters will only read the final revision before casting a vote, and that they will _not_ read the comments. Comments take time to read and are not shown in Decrediton (the main GUI wallet).
@@ -181,6 +213,10 @@ Share and iterate the draft:
   - submit monthly invoices before ~10th for work performed in previous month
   - ensure that your proposal team members submit in time, too
   - if you submit too late you may miss the pay day and will have to wait till next month
+  - learn how CMS and invoices work, don't hesitate to ask
+- [ ] oversee execution and review billing
+  - as an owner you will be expected to oversee the execution and review expenses of your proposal even if you do not work or bill yourself
+  - in the future, owner's explicit approval will be required for each invoice to get paid
 - [ ] do not disappear
   - if you just go silent, this may fuel all kinds of speculation, negatively affect your reputation and damage support of your future proposals
   - if unforeseen events happen and you're suddenly short on time, try to at least "show up" once in a while
