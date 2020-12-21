@@ -143,6 +143,7 @@ Share and iterate the draft:
 - [ ] actively engage with commenters
   - answer questions and clarify misunderstandings
   - make sure you don't miss email notifications from Politeia
+  - remember that commenters may not be the same people who will vote. People who are extremely vocal about supporting or attacking you in comments may not make any difference in the vote results (or not vote at all!), so don't get too hyped or too upset about comments. Voting is the only way to know what _stakeholders_ think.
 - [ ] update the proposal
   - as you discover common questions or points of confusion, edit the proposal to address them
   - imagine that most voters will only read the final revision before casting a vote, and that they will _not_ read the comments. Comments take time to read and are not shown in Decrediton (the main GUI wallet).
