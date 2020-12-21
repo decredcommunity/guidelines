@@ -55,9 +55,9 @@ Write proposal draft in the Markdown format:
   - bookmark this excellent Markdown [cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
   - check for typos with a spell checker
 
-Contentious proposal ideas (you may want to avoid):
+Contentious ideas (you may want to avoid):
 
-- Schemes where Treasury receives part of the profits have been [discussed](https://github.com/decredcommunity/issues/issues/61) many times and the community in general is very cautious about it.
+- schemes where Treasury receives part of the profits have been [discussed](https://github.com/decredcommunity/issues/issues/61) many times and the community in general is very cautious about it
 
 Add important information and avoid common mistakes:
 
@@ -80,23 +80,23 @@ Add important information and avoid common mistakes:
 - [ ] address non-expert audience
   - people of all kinds of backgrounds will read your proposal, including those unfamiliar with your field, and those not fluent in English
   - a good way to help more people understand your proposal is to address general and expert audiences in separate sections, as shown by [this](https://proposals.decred.org/proposals/0a1ff84) proposal
-- [ ] avoid overlaps with other proposals
+- [ ] avoid overlaps with active proposals
   - try to avoid having your proposal overlapping with existing active proposals by doing/funding same things
-  - if that happens, please clarify how the overlap is resolved (does your proposal "take over" funding of certain items?)
+  - if that happens, clarify how the overlap is resolved (does your proposal "take over" execution and/or funding of certain items?)
   - we had a case when _three_ proposals included the same thing and it was very confusing
 - [ ] state how assets produced by the proposal will be "transferred" to Decred's ownership
   - where will they be uploaded and who will maintain them after the proposal is finished?
 - [ ] restrictions on deliverables
   - specify any license or other restrictions on deliverables
 - [ ] plan the budget
-  - the main figure stakeholders will care about is the total USD spend limit, make sure this number is clearly visible
-  - for convenience it helps to also present monthly USD spend limit
-  - if expected (average) and maximum monthly/total spend may vary significantly, add both numbers as done [here](https://proposals.decred.org/proposals/32cba00)
+  - the main figure stakeholders care about is the _total USD_ spend limit, make sure this number is clearly visible
+  - it is convenient when _monthly USD_ spend limit is also presented
+  - if expected (average) and maximum total (and monthly) spend may vary significantly, add both numbers as done [here](https://proposals.decred.org/proposals/32cba00)
   - talk to each member, get their monthly USD estimates (expected and maximum)
   - a common practice is when "any unspent funds will remain in the Treasury", state this if it fits your proposal
   - you may include estimates of labor hours and hourly rates that produced the total USD budget. Some proposals show this to be more transparent and provide an extra sanity check, while some omit hours to not go into too much detail and/or protect individual contractor's privacy. In general this is not required and it is more practical to think and communicate the proposal in terms of USD, and mention hours only for context and sanity checks (e.g. to let people ask questions like "why do you need 100 hours to update this page?"). What matters in the end is the work delivered and funds spent.
   - account for any raise you plan to award your team throughout the duration
-  - include a bit of extra funds for unforeseen expenses
+  - include a bit of extra funds for possible expansion and unforeseen expenses
 - [ ] break down where the money goes
   - any non-trivial amount of money needs a breakdown of how it will be allocated
   - good itemization boosts confidence, allows to discuss and adjust the plan
@@ -110,10 +110,10 @@ Add important information and avoid common mistakes:
   - esp. if >1 people are executing your proposal
 - [ ] the proposal must be priced in USD but the payments will be in DCR
   - in rare cases pricing in DCR could have strong benefits (e.g. prize pools), clarify this with Politeia moderators
-- [ ] state an explicit start and end date of the billable work
+- [ ] state an explicit start and end date of the billable work period
   - e.g. "work will be performed for 6 months between August 1, 2020 and January 31, 2021"
   - even if start date is in the past, for [example](https://proposals.decred.org/proposals/c093b8a) "the proposal also covers the work performed in September and October 2020"
-  - some proposals do not state this explicitly and it becomes hard to tell for when they are allowed to bill
+  - some proposals do not state this explicitly and it is hard to tell for when they are allowed to bill
 - [ ] state proposal end condition: when term ends, when money runs out, or other
 - [ ] list all risks that you already know
   - examples [here](https://proposals.decred.org/proposals/0a1ff84) or [here](https://proposals.decred.org/proposals/32cba00)
@@ -151,7 +151,7 @@ Share and iterate the draft:
 - [ ] actively engage with commenters
   - answer questions and clarify misunderstandings
   - make sure you don't miss email notifications from Politeia
-  - remember that commenters may not be the same people who will vote. People who are extremely vocal about supporting or attacking you in comments may not make any difference in the vote results (or not vote at all!), so don't get too hyped or too upset about comments. Voting is the only way to know what _stakeholders_ think.
+  - remember that commenters may not be the same people who will vote. People who are extremely vocal about supporting or attacking you in comments may not make any difference in the vote outcome (or not vote at all!), so don't get too hyped or too upset about comments. Voting is the only way to know what _stakeholders_ think.
 - [ ] update the proposal
   - as you discover common questions or points of confusion, edit the proposal to address them
   - imagine that most voters will only read the final revision before casting a vote, and that they will _not_ read the comments. Comments take time to read and are not shown in Decrediton (the main GUI wallet).
@@ -216,7 +216,7 @@ Share and iterate the draft:
   - learn how CMS and invoices work, don't hesitate to ask
 - [ ] oversee execution and review billing
   - as an owner you will be expected to oversee the execution and review expenses of your proposal even if you do not work or bill yourself
-  - in the future owner's explicit approval will be required for each invoice to get paid
+  - in the future, owner's explicit approval will be required for each invoice to get paid
 - [ ] do not disappear
   - if you just go silent, this may fuel all kinds of speculation, negatively affect your reputation and damage support of your future proposals
   - if unforeseen events happen and you're suddenly short on time, try to at least "show up" once in a while
