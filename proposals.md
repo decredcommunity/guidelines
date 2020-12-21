@@ -76,6 +76,10 @@ Add important information and avoid common mistakes:
 - [ ] address non-expert audience
   - people of all kinds of backgrounds will read your proposal, including those unfamiliar with your field, and those not fluent in English
   - a good way to help more people understand your proposal is to address general and expert audiences in separate sections, as shown by [this](https://proposals.decred.org/proposals/0a1ff84) proposal
+- [ ] avoid overlaps with other proposals
+  - try to avoid having your proposal overlapping with existing active proposals by doing/funding same things
+  - if that happens, please clarify how the overlap is resolved (does your proposal "take over" funding of certain items?)
+  - we had a case when _three_ proposals included the same thing and it was very confusing
 - [ ] state how assets produced by the proposal will be "transferred" to Decred's ownership
   - where will they be uploaded and who will maintain them after the proposal is finished?
 - [ ] restrictions on deliverables
