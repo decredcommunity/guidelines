@@ -55,6 +55,10 @@ Write proposal draft in the Markdown format:
   - bookmark this excellent Markdown [cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
   - check for typos with a spell checker
 
+Contentious proposal ideas (you may want to avoid):
+
+- Schemes where Treasury receives part of the profits have been [discussed](https://github.com/decredcommunity/issues/issues/61) many times and the community in general is very cautious about it.
+
 Add important information and avoid common mistakes:
 
 - [ ] develop an actionable plan
