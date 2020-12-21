@@ -96,10 +96,10 @@ Add important information and avoid common mistakes:
   - big chunks of funds without a breakdown will raise questions
   - not so good example [here](https://proposals.decred.org/proposals/bc20f98), where a $78K item was lacking due decomposition
 - [ ] plan for coordination overhead
-  - whether you're going to bill for it or not, include the time/effort for communication/coordination/management/reporting in your estimates
-  - esp. if >1 people are executing your proposal
-  - as a proposal owner, you will likely spend quite some time writing up the proposal, answering questions, and coordinating other people. If you wish to be compensated for this work, include it in the budget and mention it in the proposal.
+  - you will likely spend quite a few hours writing up the proposal, answering questions, and coordinating other people. If you wish to be compensated for this work, include it in the budget and mention it in the proposal.
   - as a real life example, it took me more than 10 hours to prepare the [moderation](https://proposals.decred.org/proposals/32cba00) proposal and reply to comments
+  - then if it is approved, as an owner you will likely spend time/efforts on communication/coordination/management/oversight/reporting. Take this into account in your estimates regardless of whether you're going to bill for it or not.
+  - esp. if >1 people are executing your proposal
 - [ ] the proposal must be priced in USD but the payments will be in DCR
   - in rare cases pricing in DCR could have strong benefits (e.g. prize pools), clarify this with Politeia moderators
 - [ ] state an explicit start and end date of the billable work
@@ -205,6 +205,9 @@ Share and iterate the draft:
   - ensure that your proposal team members submit in time, too
   - if you submit too late you may miss the pay day and will have to wait till next month
   - learn how CMS and invoices work, don't hesitate to ask
+- [ ] oversee execution and review billing
+  - as an owner you will be expected to oversee the execution and review expenses of your proposal even if you do not work or bill yourself
+  - in the future owner's explicit approval will be required for each invoice to get paid
 - [ ] do not disappear
   - if you just go silent, this may fuel all kinds of speculation, negatively affect your reputation and damage support of your future proposals
   - if unforeseen events happen and you're suddenly short on time, try to at least "show up" once in a while
