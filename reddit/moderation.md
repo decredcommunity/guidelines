@@ -1,7 +1,7 @@
 ---
 author: bee
 published_utc: 2019-04-18
-updated_utc: 2020-09-02
+updated_utc: 2021-03-10
 ---
 
 # Reddit moderator tips
@@ -29,11 +29,9 @@ Log of all mod activity. Only visible to mods. Check it to catch and undo any fa
 
 Public viewers of mod activity:
 
-- https://moddit.ffff00.news/r/decred
 - https://modlogs.fyi/r/decred
-- https://snew.notabug.io/r/decred/about/log/
-
-Another public log of all mod activity.
+- https://rbtc.live/modlogs/?sub=decred
+- https://politicbot.github.io/r/decred/about/log/
 
 https://snew.notabug.io/r/decred/new/
 
@@ -67,7 +65,12 @@ There are aggregate versions of some of these pages that list data across all su
 
 Many of the above listings are available as JSON feeds if you add `.json` at the end of the URL.
 
-Finally, many of the above listings are available via direct private JSON and RSS links that work without cookies or other auth. You can enable them in [preferences](https://www.reddit.com/prefs) and get the links on the [RSS feeds](https://www.reddit.com/prefs/feeds/) tab. Use and share at your own risk.
+Finally, many of the above listings are available via direct private JSON and RSS links that work without cookies or other auth. You can enable them in [preferences](https://www.reddit.com/prefs) and get the links on the [RSS feeds](https://www.reddit.com/prefs/feeds/) tab. It is possible to grab much more than the default 25 mod actions by appending the `&limit=500` to the query string. This returns the same ~2 months of mod activity that is shown in the mod log UI. Mind that by default the "JSON" link to "moderation log" links to `r/mod` feed of actions in all subs you moderate. Change it to `r/decred` in the URL to only get mod actions for r/decred. THe link is private - use with care and don't share.
+
+These mod activity viewers have served in the past but have since gone down. Keeping the links in case they go back online again:
+
+- https://moddit.ffff00.news/r/decred
+- https://snew.notabug.io/r/decred/about/log/
 
 ### Short links
 
