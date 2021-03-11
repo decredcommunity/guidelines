@@ -15,8 +15,8 @@
 
 - name: No Spam
   applies_to: Posts & Comments
-  reported_as: Spam or advertising unrelated to Decred
-  description: Advertising for products or services unrelated to Decred is not allowed. For those that are relevant see Avoid Repetition rule.
+  reported_as: Spam or advertising unrelated or dangerous to Decred
+  description: Advertising of products or services unrelated to Decred is not allowed. We welcome all services that extend Decred's ecosystem, but third parties are subject to enhanced scrutiny and we may block _any_ promotion if there is a risk to users' security or privacy. Please also see Avoid Repetition rule.
 
 - name: Avoid Repetition
   applies_to: Posts & Comments
