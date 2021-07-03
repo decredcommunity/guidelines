@@ -1,6 +1,7 @@
 ---
 author: Dustorf
 published_utc: 2019-11-08
+updated_utc: {FIXME}
 ---
 
 # Decred Community Organizer Playbook
