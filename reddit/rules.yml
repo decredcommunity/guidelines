@@ -8,10 +8,11 @@
   reported_as: Bad link (referral, link shortening service, tracking parts, rehosted/stolen content etc)
   description: Always post original or "canonical" links. Profit-generating links with referral ID are not allowed. Link shortening services can track users. Tracking parts of the link can also track users (e.g. Medium's ?gi=... at the end). Websites reposting others' content steal traffic (except when the original location is gone).
 
-- name: No Trolling
+- name: Be Constructive
   applies_to: Posts & Comments
-  reported_as: Trolling or not constructive
-  description: Comments with the intent to disrupt or spread FUD (fear, uncertainty, doubt) are not allowed. Constructive criticism, however, is welcome.
+  reported_as: Not constructive or trolling
+  description: |
+    Examples of what is considered not constructive: comments with the intent to disrupt or spread fear, uncertainty, and doubt (FUD), excessive alarmism, strong claims over little research of how Decred works, personal attacks. Constructive [criticism](http://www.paulgraham.com/disagree.html), however, is welcome.
 
 - name: No Spam
   applies_to: Posts & Comments
